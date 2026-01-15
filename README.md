@@ -135,7 +135,7 @@ The following models were evaluated:
   - Repeated inactive or no-loan statuses
 
 <p align="center">
-  <img src="images/Repayment Behaviour.png" width="650">
+  <img src="images/Repayment Behaviour Insight.png" width="650">
 </p>
 
 ---
