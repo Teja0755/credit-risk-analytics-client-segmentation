@@ -67,15 +67,11 @@ Conducted using **Tableau**, focusing on:
 - Credit repayment behavior across risk groups
 
 <p align="center">
-  <img src="images/correlation heatmap.png" width="600">
+  <img src="images/Correlation heatmap.png" width="600">
 </p>
 
 **Example Insight:**  
 Pensioners and state servants showed **high repayment reliability**, while working clients dominated portfolio volume but exhibited **varied risk behavior**.
-
-<p align="center">
-  <img src="images/client distribution income.png" width="600">
-</p>
 
 ---
 
