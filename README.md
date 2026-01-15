@@ -74,7 +74,7 @@ Conducted using **Tableau**, focusing on:
 Pensioners and state servants showed **high repayment reliability**, while working clients dominated portfolio volume but exhibited **varied risk behavior**.
 
 <p align="center">
-  <img src="images/client_distribution_income.png" width="600">
+  <img src="images/client distribution income.png" width="600">
 </p>
 
 ---
