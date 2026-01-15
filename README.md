@@ -66,6 +66,10 @@ Conducted using **Tableau**, focusing on:
 - Client segmentation by education, employment, and income
 - Credit repayment behavior across risk groups
 
+<p align="center">
+  <img src="images/correlation heatmap.png" width="600">
+</p>
+
 **Example Insight:**  
 Pensioners and state servants showed **high repayment reliability**, while working clients dominated portfolio volume but exhibited **varied risk behavior**.
 
@@ -90,7 +94,7 @@ The following models were evaluated:
 - Logistic regression offered interpretable predictors such as **income, age, and employment duration**
 
 <p align="center">
-  <img src="images/decision_tree.png" width="700">
+  <img src="images/Decision Tree Model.png" width="700">
 </p>
 
 ---
@@ -102,6 +106,13 @@ The following models were evaluated:
 - Pensioners and State Servants consistently demonstrate low credit risk
 - Commercial associates exhibit comparatively higher default rates
 
+<p align="center">
+  <img src="images/Income Insight.png" width="650">
+</p>
+
+<p align="center">
+  <img src="images/Income Insight 2.png" width="650">
+</p>
 ---
 
 ### Insight 2: Education Correlates with Creditworthiness
@@ -110,6 +121,9 @@ The following models were evaluated:
   - ~90% good-client ratio
 - Secondary education dominates portfolio volume but shows higher variability
 
+<p align="center">
+  <img src="images/Education Insight.png" width="650">
+</p>
 ---
 
 ### Insight 3: Repayment Behavior Is a Strong Risk Signal
@@ -121,7 +135,7 @@ The following models were evaluated:
   - Repeated inactive or no-loan statuses
 
 <p align="center">
-  <img src="images/credit_activity_spread.png" width="650">
+  <img src="images/Repayment Behaviour.png" width="650">
 </p>
 
 ---
